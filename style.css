@@ -1,0 +1,44 @@
+html {
+	background-image: url("background.png");
+    background-repeat: repeat;
+    font-family: sans-serif;
+}
+
+#search_area {
+
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	width: 600px;
+	height: 200px;
+}
+
+#results_area {
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#submit_button {
+	text-align: center;
+}
+
+#searchbar {
+	margin-top: 50px;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
